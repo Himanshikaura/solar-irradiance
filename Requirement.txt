@@ -1,0 +1,9 @@
+numpy==1.24.4                    # numerical arrays
+pandas==1.4.4                    # tabular data
+matplotlib==3.5.2                # plotting
+seaborn==0.11.2                  # statistical plots
+scikit-learn==1.0.2              # preprocessing, metrics
+tensorflow==2.12.0               # deep learning framework
+keras==2.12.0                    # if using keras-style APIs
+torch==2.6.0                     # if using PyTorch
+transformers==4.27.4             # if using Transformer-based models
